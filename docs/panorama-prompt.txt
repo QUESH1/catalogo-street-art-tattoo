@@ -1,0 +1,8 @@
+Mode: built-in image_gen generate. One attempt, successful. Output 2172x724, 3:1.
+
+Use case: photorealistic-natural.
+Asset type: original panoramic photographic background for a premium Brazilian streetwear catalog website hero and carousel.
+Generate ONE original image, very wide horizontal panorama, approximately 3:1, ideally 3072x1024.
+Scene: a continuous worn light gray concrete wall with physical abstract street-art paint layers, subtle age, plaster texture, gentle irregular spray edges. Left side has restrained petroleum blue and cyan paint layers; middle has restrained graphite gray and orange; right has small lavender, purple and orange areas. All markings are purely abstract, no readable letters or representational imagery.
+Composition: the wall spans the full panorama. A low, discreet concrete floor/base runs along the bottom, about the lower 15 percent, with believable soft perspective. Plenty of open breathing room in the center and foreground so product cutout PNGs can later be composited by the website. Keep colors as background accents, with much of the surface neutral light gray. Sophisticated real diffuse catalog lighting, subtle realistic shadows and material detail, physically photographed setting.
+Constraints: empty environment only. No products, shirts, bags, people, animals, telephones, pigeon imagery, furniture, props or other representational objects. No readable lettering, numbers, logos, symbols, watermark, frames, UI or website layout. No dramatic spotlights. Do not create product mockups.

@@ -1,0 +1,923 @@
+[
+  {
+    "file": "preto_frente_01",
+    "old": "preta-01_frente_preta.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "frente",
+    "artwork": "compartilhada",
+    "source": "../produtos PNG transparente/preto_frente_01",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_frente_01-320.webp",
+        "width": 320,
+        "height": 308,
+        "bytes": 63298
+      },
+      {
+        "file": "/products/preto_frente_01-640.webp",
+        "width": 640,
+        "height": 615,
+        "bytes": 283336
+      },
+      {
+        "file": "/products/preto_frente_01-960.webp",
+        "width": 960,
+        "height": 923,
+        "bytes": 688920
+      }
+    ]
+  },
+  {
+    "file": "preto_verso_orelhao_02",
+    "old": "preta-02_verso_orelhao.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "costas",
+    "artwork": "orelhao",
+    "source": "../produtos PNG transparente/preto_verso_orelhao_02",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_verso_orelhao_02-320.webp",
+        "width": 320,
+        "height": 317,
+        "bytes": 83640
+      },
+      {
+        "file": "/products/preto_verso_orelhao_02-640.webp",
+        "width": 640,
+        "height": 635,
+        "bytes": 346786
+      },
+      {
+        "file": "/products/preto_verso_orelhao_02-960.webp",
+        "width": 960,
+        "height": 952,
+        "bytes": 792276
+      }
+    ]
+  },
+  {
+    "file": "preto_verso_lettering_laranja_03",
+    "old": "preta-03_verso_lettering_laranja.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "costas",
+    "artwork": "lettering_laranja",
+    "source": "../produtos PNG transparente/preto_verso_lettering_laranja_03",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_verso_lettering_laranja_03-320.webp",
+        "width": 320,
+        "height": 314,
+        "bytes": 87586
+      },
+      {
+        "file": "/products/preto_verso_lettering_laranja_03-640.webp",
+        "width": 640,
+        "height": 628,
+        "bytes": 359528
+      },
+      {
+        "file": "/products/preto_verso_lettering_laranja_03-960.webp",
+        "width": 960,
+        "height": 942,
+        "bytes": 831646
+      }
+    ]
+  },
+  {
+    "file": "preto_verso_lettering_branco_04",
+    "old": "preta-04_verso_lettering_preto_branco.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "costas",
+    "artwork": "lettering_branco",
+    "source": "../produtos PNG transparente/preto_verso_lettering_branco_04",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_verso_lettering_branco_04-320.webp",
+        "width": 320,
+        "height": 314,
+        "bytes": 82430
+      },
+      {
+        "file": "/products/preto_verso_lettering_branco_04-640.webp",
+        "width": 640,
+        "height": 628,
+        "bytes": 330516
+      },
+      {
+        "file": "/products/preto_verso_lettering_branco_04-960.webp",
+        "width": 960,
+        "height": 942,
+        "bytes": 772772
+      }
+    ]
+  },
+  {
+    "file": "preto_verso_queijo_05",
+    "old": "preta-05_verso_queijo.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "costas",
+    "artwork": "queijo",
+    "source": "../produtos PNG transparente/preto_verso_queijo_05",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_verso_queijo_05-320.webp",
+        "width": 320,
+        "height": 315,
+        "bytes": 85556
+      },
+      {
+        "file": "/products/preto_verso_queijo_05-640.webp",
+        "width": 640,
+        "height": 629,
+        "bytes": 355420
+      },
+      {
+        "file": "/products/preto_verso_queijo_05-960.webp",
+        "width": 960,
+        "height": 944,
+        "bytes": 795654
+      }
+    ]
+  },
+  {
+    "file": "preto_verso_pombo_06",
+    "old": "preta-06_verso_pombo.webp",
+    "category": "Camisetas",
+    "color": "preto",
+    "view": "costas",
+    "artwork": "pombo",
+    "source": "../produtos PNG transparente/preto_verso_pombo_06",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/preto_verso_pombo_06-320.webp",
+        "width": 320,
+        "height": 301,
+        "bytes": 76282
+      },
+      {
+        "file": "/products/preto_verso_pombo_06-640.webp",
+        "width": 640,
+        "height": 602,
+        "bytes": 323944
+      },
+      {
+        "file": "/products/preto_verso_pombo_06-960.webp",
+        "width": 960,
+        "height": 903,
+        "bytes": 757194
+      }
+    ]
+  },
+  {
+    "file": "cinza_frente_01",
+    "old": "cinza-01_frente_cinza.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "frente",
+    "artwork": "compartilhada",
+    "source": "../produtos PNG transparente/cinza_frente_01",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_frente_01-320.webp",
+        "width": 320,
+        "height": 306,
+        "bytes": 92218
+      },
+      {
+        "file": "/products/cinza_frente_01-640.webp",
+        "width": 640,
+        "height": 613,
+        "bytes": 384730
+      },
+      {
+        "file": "/products/cinza_frente_01-960.webp",
+        "width": 960,
+        "height": 919,
+        "bytes": 877528
+      }
+    ]
+  },
+  {
+    "file": "cinza_verso_orelhao_02",
+    "old": "cinza-02_verso_orelhao.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "costas",
+    "artwork": "orelhao",
+    "source": "../produtos PNG transparente/cinza_verso_orelhao_02",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_verso_orelhao_02-320.webp",
+        "width": 311,
+        "height": 320,
+        "bytes": 101364
+      },
+      {
+        "file": "/products/cinza_verso_orelhao_02-640.webp",
+        "width": 623,
+        "height": 640,
+        "bytes": 424120
+      },
+      {
+        "file": "/products/cinza_verso_orelhao_02-960.webp",
+        "width": 934,
+        "height": 960,
+        "bytes": 957780
+      }
+    ]
+  },
+  {
+    "file": "cinza_verso_lettering_laranja_03",
+    "old": "cinza-03_verso_lettering_laranja.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "costas",
+    "artwork": "lettering_laranja",
+    "source": "../produtos PNG transparente/cinza_verso_lettering_laranja_03",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_verso_lettering_laranja_03-320.webp",
+        "width": 320,
+        "height": 318,
+        "bytes": 110232
+      },
+      {
+        "file": "/products/cinza_verso_lettering_laranja_03-640.webp",
+        "width": 640,
+        "height": 636,
+        "bytes": 460392
+      },
+      {
+        "file": "/products/cinza_verso_lettering_laranja_03-960.webp",
+        "width": 960,
+        "height": 954,
+        "bytes": 1023840
+      }
+    ]
+  },
+  {
+    "file": "cinza_verso_lettering_branco_04",
+    "old": "cinza-04_verso_lettering_preto_branco.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "costas",
+    "artwork": "lettering_branco",
+    "source": "../produtos PNG transparente/cinza_verso_lettering_branco_04",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_verso_lettering_branco_04-320.webp",
+        "width": 320,
+        "height": 315,
+        "bytes": 94054
+      },
+      {
+        "file": "/products/cinza_verso_lettering_branco_04-640.webp",
+        "width": 640,
+        "height": 630,
+        "bytes": 388840
+      },
+      {
+        "file": "/products/cinza_verso_lettering_branco_04-960.webp",
+        "width": 960,
+        "height": 944,
+        "bytes": 866266
+      }
+    ]
+  },
+  {
+    "file": "cinza_verso_queijo_05",
+    "old": "cinza-05_verso_queijo.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "costas",
+    "artwork": "queijo",
+    "source": "../produtos PNG transparente/cinza_verso_queijo_05",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_verso_queijo_05-320.webp",
+        "width": 320,
+        "height": 303,
+        "bytes": 98640
+      },
+      {
+        "file": "/products/cinza_verso_queijo_05-640.webp",
+        "width": 640,
+        "height": 605,
+        "bytes": 416958
+      },
+      {
+        "file": "/products/cinza_verso_queijo_05-960.webp",
+        "width": 960,
+        "height": 908,
+        "bytes": 921842
+      }
+    ]
+  },
+  {
+    "file": "cinza_verso_pombo_06",
+    "old": "cinza-06_verso_pombo.webp",
+    "category": "Camisetas",
+    "color": "cinza",
+    "view": "costas",
+    "artwork": "pombo",
+    "source": "../produtos PNG transparente/cinza_verso_pombo_06",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/cinza_verso_pombo_06-320.webp",
+        "width": 320,
+        "height": 316,
+        "bytes": 103636
+      },
+      {
+        "file": "/products/cinza_verso_pombo_06-640.webp",
+        "width": 640,
+        "height": 631,
+        "bytes": 429616
+      },
+      {
+        "file": "/products/cinza_verso_pombo_06-960.webp",
+        "width": 960,
+        "height": 947,
+        "bytes": 950786
+      }
+    ]
+  },
+  {
+    "file": "ecobag_orelhao_01",
+    "old": "01_ecobag_orelhao.webp",
+    "category": "Ecobags",
+    "artwork": "orelhao",
+    "view": "frente",
+    "color": "natural",
+    "source": "../produtos PNG transparente/ecobag_orelhao_01",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/ecobag_orelhao_01-320.webp",
+        "width": 266,
+        "height": 320,
+        "bytes": 74452
+      },
+      {
+        "file": "/products/ecobag_orelhao_01-640.webp",
+        "width": 533,
+        "height": 640,
+        "bytes": 278254
+      },
+      {
+        "file": "/products/ecobag_orelhao_01-960.webp",
+        "width": 799,
+        "height": 960,
+        "bytes": 623750
+      }
+    ]
+  },
+  {
+    "file": "ecobag_lettering_laranja_02",
+    "old": "02_ecobag_lettering_laranja.webp",
+    "category": "Ecobags",
+    "artwork": "lettering_laranja",
+    "view": "frente",
+    "color": "natural",
+    "source": "../produtos PNG transparente/ecobag_lettering_laranja_02",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/ecobag_lettering_laranja_02-320.webp",
+        "width": 320,
+        "height": 304,
+        "bytes": 66358
+      },
+      {
+        "file": "/products/ecobag_lettering_laranja_02-640.webp",
+        "width": 640,
+        "height": 607,
+        "bytes": 250728
+      },
+      {
+        "file": "/products/ecobag_lettering_laranja_02-960.webp",
+        "width": 960,
+        "height": 911,
+        "bytes": 566936
+      }
+    ]
+  },
+  {
+    "file": "ecobag_lettering_preto_branco_03",
+    "old": "03_ecobag_lettering_preto_branco.webp",
+    "category": "Ecobags",
+    "artwork": "lettering_preto_branco",
+    "view": "frente",
+    "color": "natural",
+    "source": "../produtos PNG transparente/ecobag_lettering_preto_branco_03",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/ecobag_lettering_preto_branco_03-320.webp",
+        "width": 272,
+        "height": 320,
+        "bytes": 74630
+      },
+      {
+        "file": "/products/ecobag_lettering_preto_branco_03-640.webp",
+        "width": 545,
+        "height": 640,
+        "bytes": 276704
+      },
+      {
+        "file": "/products/ecobag_lettering_preto_branco_03-960.webp",
+        "width": 817,
+        "height": 960,
+        "bytes": 623568
+      }
+    ]
+  },
+  {
+    "file": "ecobag_queijo_04",
+    "old": "04_ecobag_queijo.webp",
+    "category": "Ecobags",
+    "artwork": "queijo",
+    "view": "frente",
+    "color": "natural",
+    "source": "../produtos PNG transparente/ecobag_queijo_04",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/ecobag_queijo_04-320.webp",
+        "width": 302,
+        "height": 320,
+        "bytes": 78834
+      },
+      {
+        "file": "/products/ecobag_queijo_04-640.webp",
+        "width": 604,
+        "height": 640,
+        "bytes": 295356
+      },
+      {
+        "file": "/products/ecobag_queijo_04-960.webp",
+        "width": 907,
+        "height": 960,
+        "bytes": 666914
+      }
+    ]
+  },
+  {
+    "file": "ecobag_pombo_05",
+    "old": "05_ecobag_pombo.webp",
+    "category": "Ecobags",
+    "artwork": "pombo",
+    "view": "frente",
+    "color": "natural",
+    "source": "../produtos PNG transparente/ecobag_pombo_05",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/ecobag_pombo_05-320.webp",
+        "width": 320,
+        "height": 318,
+        "bytes": 77016
+      },
+      {
+        "file": "/products/ecobag_pombo_05-640.webp",
+        "width": 640,
+        "height": 635,
+        "bytes": 287160
+      },
+      {
+        "file": "/products/ecobag_pombo_05-960.webp",
+        "width": 960,
+        "height": 953,
+        "bytes": 635192
+      }
+    ]
+  },
+  {
+    "file": "chaveiro_flor_verde_feliz",
+    "old": "objeto-1.webp",
+    "category": "Chaveiros",
+    "source": "../produtos PNG transparente/chaveiro_flor_verde_feliz",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/chaveiro_flor_verde_feliz-320.webp",
+        "width": 271,
+        "height": 320,
+        "bytes": 46030
+      },
+      {
+        "file": "/products/chaveiro_flor_verde_feliz-640.webp",
+        "width": 542,
+        "height": 640,
+        "bytes": 160694
+      },
+      {
+        "file": "/products/chaveiro_flor_verde_feliz-960.webp",
+        "width": 812,
+        "height": 960,
+        "bytes": 337812
+      }
+    ]
+  },
+  {
+    "file": "chaveiro_flor_dourado_feliz",
+    "old": "objeto-2.webp",
+    "category": "Chaveiros",
+    "source": "../produtos PNG transparente/chaveiro_flor_dourado_feliz",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/chaveiro_flor_dourado_feliz-320.webp",
+        "width": 286,
+        "height": 320,
+        "bytes": 57594
+      },
+      {
+        "file": "/products/chaveiro_flor_dourado_feliz-640.webp",
+        "width": 572,
+        "height": 640,
+        "bytes": 191102
+      },
+      {
+        "file": "/products/chaveiro_flor_dourado_feliz-960.webp",
+        "width": 858,
+        "height": 960,
+        "bytes": 397314
+      }
+    ]
+  },
+  {
+    "file": "chaveiro_console_cinza",
+    "old": "objeto-3.webp",
+    "category": "Chaveiros",
+    "source": "../produtos PNG transparente/chaveiro_console_cinza",
+    "format": "png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "outputs": [
+      {
+        "file": "/products/chaveiro_console_cinza-320.webp",
+        "width": 234,
+        "height": 320,
+        "bytes": 37184
+      },
+      {
+        "file": "/products/chaveiro_console_cinza-640.webp",
+        "width": 469,
+        "height": 640,
+        "bytes": 130996
+      },
+      {
+        "file": "/products/chaveiro_console_cinza-960.webp",
+        "width": 703,
+        "height": 960,
+        "bytes": 285188
+      }
+    ]
+  },
+  {
+    "file": "chaveiro_tenis_cinza",
+    "old": "objeto-4.webp",
+    "category": "Chaveiros",
+    "source": "../produtos PNG transparente/chaveiro_tenis_cinza",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/chaveiro_tenis_cinza-320.webp",
+        "width": 101,
+        "height": 320,
+        "bytes": 31166
+      },
+      {
+        "file": "/products/chaveiro_tenis_cinza-640.webp",
+        "width": 202,
+        "height": 640,
+        "bytes": 102378
+      },
+      {
+        "file": "/products/chaveiro_tenis_cinza-960.webp",
+        "width": 303,
+        "height": 960,
+        "bytes": 225984
+      }
+    ]
+  },
+  {
+    "file": "chaveiro_menino_macaco_laranja",
+    "old": "objeto-5.webp",
+    "category": "Chaveiros",
+    "source": "../produtos PNG transparente/chaveiro_menino_macaco_laranja",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/chaveiro_menino_macaco_laranja-320.webp",
+        "width": 155,
+        "height": 320,
+        "bytes": 36564
+      },
+      {
+        "file": "/products/chaveiro_menino_macaco_laranja-640.webp",
+        "width": 309,
+        "height": 640,
+        "bytes": 123012
+      },
+      {
+        "file": "/products/chaveiro_menino_macaco_laranja-960.webp",
+        "width": 464,
+        "height": 960,
+        "bytes": 259010
+      }
+    ]
+  },
+  {
+    "file": "quadro_01",
+    "old": "objeto-6.webp",
+    "category": "Arte",
+    "source": "../produtos PNG transparente/quadro_01",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/quadro_01-320.webp",
+        "width": 231,
+        "height": 320,
+        "bytes": 104318
+      },
+      {
+        "file": "/products/quadro_01-640.webp",
+        "width": 463,
+        "height": 640,
+        "bytes": 400586
+      },
+      {
+        "file": "/products/quadro_01-960.webp",
+        "width": 694,
+        "height": 960,
+        "bytes": 891828
+      }
+    ]
+  },
+  {
+    "file": "quadro_02",
+    "old": "objeto-7.webp",
+    "category": "Arte",
+    "source": "../produtos PNG transparente/quadro_02",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/quadro_02-320.webp",
+        "width": 244,
+        "height": 320,
+        "bytes": 104442
+      },
+      {
+        "file": "/products/quadro_02-640.webp",
+        "width": 487,
+        "height": 640,
+        "bytes": 417656
+      },
+      {
+        "file": "/products/quadro_02-960.webp",
+        "width": 731,
+        "height": 960,
+        "bytes": 961950
+      }
+    ]
+  },
+  {
+    "file": "quadro_03",
+    "old": "objeto-8.webp",
+    "category": "Arte",
+    "source": "../produtos PNG transparente/quadro_03",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/quadro_03-320.webp",
+        "width": 215,
+        "height": 320,
+        "bytes": 108628
+      },
+      {
+        "file": "/products/quadro_03-640.webp",
+        "width": 430,
+        "height": 640,
+        "bytes": 418718
+      },
+      {
+        "file": "/products/quadro_03-960.webp",
+        "width": 645,
+        "height": 960,
+        "bytes": 951416
+      }
+    ]
+  },
+  {
+    "file": "piteira_frente_01",
+    "old": "objeto-9.webp",
+    "category": "Acessórios",
+    "view": "frente",
+    "source": "../produtos PNG transparente/piteira_frente_01",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/piteira_frente_01-320.webp",
+        "width": 320,
+        "height": 305,
+        "bytes": 115868
+      },
+      {
+        "file": "/products/piteira_frente_01-640.webp",
+        "width": 640,
+        "height": 609,
+        "bytes": 427760
+      },
+      {
+        "file": "/products/piteira_frente_01-960.webp",
+        "width": 960,
+        "height": 914,
+        "bytes": 911020
+      }
+    ]
+  },
+  {
+    "file": "piteira_verso_01",
+    "old": "objeto-10.webp",
+    "category": "Acessórios",
+    "view": "verso",
+    "source": "../produtos PNG transparente/piteira_verso_01",
+    "format": "png",
+    "originalSize": [
+      1060,
+      1484
+    ],
+    "outputs": [
+      {
+        "file": "/products/piteira_verso_01-320.webp",
+        "width": 243,
+        "height": 320,
+        "bytes": 67328
+      },
+      {
+        "file": "/products/piteira_verso_01-640.webp",
+        "width": 485,
+        "height": 640,
+        "bytes": 255224
+      },
+      {
+        "file": "/products/piteira_verso_01-960.webp",
+        "width": 728,
+        "height": 960,
+        "bytes": 567770
+      }
+    ]
+  },
+  {
+    "file": "seda_01",
+    "old": null,
+    "category": "Acessórios",
+    "source": "../produtos PNG transparente/seda_01",
+    "format": "png",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "outputs": [
+      {
+        "file": "/products/seda_01-320.webp",
+        "width": 320,
+        "height": 222,
+        "bytes": 53236
+      },
+      {
+        "file": "/products/seda_01-640.webp",
+        "width": 640,
+        "height": 444,
+        "bytes": 196998
+      },
+      {
+        "file": "/products/seda_01-960.webp",
+        "width": 960,
+        "height": 667,
+        "bytes": 419248
+      }
+    ]
+  }
+]

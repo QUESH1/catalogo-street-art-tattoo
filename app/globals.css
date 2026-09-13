@@ -15,3 +15,16 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.panorama-layer{transform:none!important;will-change:auto}}
 .footer-logo{width:90px;flex-shrink:0}.footer-logo img{height:38px;object-fit:contain}.product-stage{transition:background .18s}.product-stage:hover{background:#e5e2d9}
 .product-dialog{display:block!important;overflow:hidden}.detail-layout{display:grid;grid-template-columns:1fr 1fr;max-height:90dvh;overflow:auto}.product-dialog .close-button{position:absolute;top:12px;right:12px}@media(max-width:760px){.detail-layout{grid-template-columns:1fr;max-height:92dvh}}
+/* Hero only: reuse the collection carousel, with independent view and color controls. */
+.hero-carousel .hero-track{margin-left:0;touch-action:pan-y pinch-zoom}
+.hero-carousel .hero-slide{padding-left:0}
+.hero-carousel .campaign-arrow{top:42%;border:0;z-index:2}
+.hero-carousel .campaign-arrow.previous{left:0}
+.hero-carousel .campaign-arrow.next{right:0}
+.hero-product-info{flex-wrap:wrap}
+.hero-current{min-width:0;flex:1 1 190px}
+.hero-secondary-controls{display:flex;align-items:center;gap:12px;flex-shrink:0}
+.hero-views{display:flex;gap:2px}
+.hero-views button{min-height:36px;padding:8px 9px;font-size:11px;border-bottom:1px solid transparent;color:#555}
+.hero-views button[aria-pressed=true]{border-color:#181818;color:#181818;font-weight:700}
+@media(max-width:760px){.hero-current{flex-basis:100%}.hero-secondary-controls{width:100%;justify-content:space-between}.hero-views button{min-height:40px;padding:9px 12px}.hero-carousel .campaign-arrow{top:38%;width:44px;height:44px}}

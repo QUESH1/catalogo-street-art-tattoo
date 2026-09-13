@@ -44,7 +44,11 @@ Build estático Next.js e TypeScript passaram. Revisão no navegador em desktop 
 
 ## Ambiente Windows
 
-O runtime Workers do starter falhou neste computador. O projeto usa execução nativa Next.js e exportação estática, preservando o suporte à publicação Sites. Se o shim npm local falhar, executar o npm-cli.js instalado com Node diretamente. A prévia estática pode ser iniciada após o build com o comando acima.
+O projeto usa execução nativa Next.js e exportação estática. Se o shim npm local falhar, executar o npm-cli.js instalado com Node diretamente. A prévia estática pode ser iniciada após o build com o comando acima.
+
+## Publicação
+
+O deploy é automático via GitHub Actions a cada push na branch master, publicando a exportação estática no GitHub Pages.
 
 ## Refinamento atual
 

@@ -65,10 +65,5 @@ next-env.d.ts
 /scripts/pnpm-install.mjs
 /scripts/install-pnpm.sh
 /tsconfig.tsbuildinfo
-/docs/
-
-!/docs/
 /docs/*
 !/docs/product-asset-map.json
-!/docs/panorama-prompt.txt
-!/docs/TRANSPARENT-REFINEMENT.md

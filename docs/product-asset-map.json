@@ -16,20 +16,20 @@
       {
         "file": "/products/preto_frente_01-320.webp",
         "width": 320,
-        "height": 308,
-        "bytes": 63298
+        "height": 306,
+        "bytes": 35378
       },
       {
         "file": "/products/preto_frente_01-640.webp",
         "width": 640,
-        "height": 615,
-        "bytes": 283336
+        "height": 612,
+        "bytes": 115120
       },
       {
         "file": "/products/preto_frente_01-960.webp",
-        "width": 960,
-        "height": 923,
-        "bytes": 688920
+        "width": 958,
+        "height": 916,
+        "bytes": 241742
       }
     ]
   },
@@ -51,19 +51,19 @@
         "file": "/products/preto_verso_orelhao_02-320.webp",
         "width": 320,
         "height": 317,
-        "bytes": 83640
+        "bytes": 79864
       },
       {
         "file": "/products/preto_verso_orelhao_02-640.webp",
         "width": 640,
         "height": 635,
-        "bytes": 346786
+        "bytes": 262496
       },
       {
         "file": "/products/preto_verso_orelhao_02-960.webp",
-        "width": 960,
-        "height": 952,
-        "bytes": 792276
+        "width": 955,
+        "height": 947,
+        "bytes": 533600
       }
     ]
   },
@@ -84,20 +84,20 @@
       {
         "file": "/products/preto_verso_lettering_laranja_03-320.webp",
         "width": 320,
-        "height": 314,
-        "bytes": 87586
+        "height": 313,
+        "bytes": 85914
       },
       {
         "file": "/products/preto_verso_lettering_laranja_03-640.webp",
         "width": 640,
-        "height": 628,
-        "bytes": 359528
+        "height": 625,
+        "bytes": 293262
       },
       {
         "file": "/products/preto_verso_lettering_laranja_03-960.webp",
-        "width": 960,
-        "height": 942,
-        "bytes": 831646
+        "width": 956,
+        "height": 934,
+        "bytes": 615824
       }
     ]
   },
@@ -119,19 +119,19 @@
         "file": "/products/preto_verso_lettering_branco_04-320.webp",
         "width": 320,
         "height": 314,
-        "bytes": 82430
+        "bytes": 63922
       },
       {
         "file": "/products/preto_verso_lettering_branco_04-640.webp",
         "width": 640,
-        "height": 628,
-        "bytes": 330516
+        "height": 627,
+        "bytes": 209360
       },
       {
         "file": "/products/preto_verso_lettering_branco_04-960.webp",
-        "width": 960,
-        "height": 942,
-        "bytes": 772772
+        "width": 958,
+        "height": 939,
+        "bytes": 442226
       }
     ]
   },
@@ -153,19 +153,19 @@
         "file": "/products/preto_verso_queijo_05-320.webp",
         "width": 320,
         "height": 315,
-        "bytes": 85556
+        "bytes": 78212
       },
       {
         "file": "/products/preto_verso_queijo_05-640.webp",
         "width": 640,
         "height": 629,
-        "bytes": 355420
+        "bytes": 258302
       },
       {
         "file": "/products/preto_verso_queijo_05-960.webp",
-        "width": 960,
-        "height": 944,
-        "bytes": 795654
+        "width": 956,
+        "height": 940,
+        "bytes": 530800
       }
     ]
   },
@@ -186,20 +186,20 @@
       {
         "file": "/products/preto_verso_pombo_06-320.webp",
         "width": 320,
-        "height": 301,
-        "bytes": 76282
+        "height": 304,
+        "bytes": 64092
       },
       {
         "file": "/products/preto_verso_pombo_06-640.webp",
         "width": 640,
-        "height": 602,
-        "bytes": 323944
+        "height": 607,
+        "bytes": 216504
       },
       {
         "file": "/products/preto_verso_pombo_06-960.webp",
-        "width": 960,
-        "height": 903,
-        "bytes": 757194
+        "width": 944,
+        "height": 896,
+        "bytes": 448810
       }
     ]
   },
@@ -220,20 +220,20 @@
       {
         "file": "/products/cinza_frente_01-320.webp",
         "width": 320,
-        "height": 306,
-        "bytes": 92218
+        "height": 305,
+        "bytes": 85368
       },
       {
         "file": "/products/cinza_frente_01-640.webp",
         "width": 640,
-        "height": 613,
-        "bytes": 384730
+        "height": 609,
+        "bytes": 286732
       },
       {
         "file": "/products/cinza_frente_01-960.webp",
-        "width": 960,
-        "height": 919,
-        "bytes": 877528
+        "width": 957,
+        "height": 911,
+        "bytes": 626440
       }
     ]
   },
@@ -253,21 +253,21 @@
     "outputs": [
       {
         "file": "/products/cinza_verso_orelhao_02-320.webp",
-        "width": 311,
+        "width": 312,
         "height": 320,
-        "bytes": 101364
+        "bytes": 100330
       },
       {
         "file": "/products/cinza_verso_orelhao_02-640.webp",
-        "width": 623,
+        "width": 624,
         "height": 640,
-        "bytes": 424120
+        "bytes": 358330
       },
       {
         "file": "/products/cinza_verso_orelhao_02-960.webp",
-        "width": 934,
-        "height": 960,
-        "bytes": 957780
+        "width": 931,
+        "height": 955,
+        "bytes": 776770
       }
     ]
   },
@@ -288,20 +288,20 @@
       {
         "file": "/products/cinza_verso_lettering_laranja_03-320.webp",
         "width": 320,
-        "height": 318,
-        "bytes": 110232
+        "height": 316,
+        "bytes": 106744
       },
       {
         "file": "/products/cinza_verso_lettering_laranja_03-640.webp",
         "width": 640,
-        "height": 636,
-        "bytes": 460392
+        "height": 632,
+        "bytes": 386084
       },
       {
         "file": "/products/cinza_verso_lettering_laranja_03-960.webp",
-        "width": 960,
-        "height": 954,
-        "bytes": 1023840
+        "width": 955,
+        "height": 943,
+        "bytes": 837212
       }
     ]
   },
@@ -322,20 +322,20 @@
       {
         "file": "/products/cinza_verso_lettering_branco_04-320.webp",
         "width": 320,
-        "height": 315,
-        "bytes": 94054
+        "height": 320,
+        "bytes": 89342
       },
       {
         "file": "/products/cinza_verso_lettering_branco_04-640.webp",
         "width": 640,
-        "height": 630,
-        "bytes": 388840
+        "height": 639,
+        "bytes": 313132
       },
       {
         "file": "/products/cinza_verso_lettering_branco_04-960.webp",
-        "width": 960,
-        "height": 944,
-        "bytes": 866266
+        "width": 940,
+        "height": 939,
+        "bytes": 647374
       }
     ]
   },
@@ -356,20 +356,20 @@
       {
         "file": "/products/cinza_verso_queijo_05-320.webp",
         "width": 320,
-        "height": 303,
-        "bytes": 98640
+        "height": 314,
+        "bytes": 102308
       },
       {
         "file": "/products/cinza_verso_queijo_05-640.webp",
         "width": 640,
-        "height": 605,
-        "bytes": 416958
+        "height": 627,
+        "bytes": 365526
       },
       {
         "file": "/products/cinza_verso_queijo_05-960.webp",
-        "width": 960,
-        "height": 908,
-        "bytes": 921842
+        "width": 920,
+        "height": 902,
+        "bytes": 746322
       }
     ]
   },
@@ -390,20 +390,20 @@
       {
         "file": "/products/cinza_verso_pombo_06-320.webp",
         "width": 320,
-        "height": 316,
-        "bytes": 103636
+        "height": 315,
+        "bytes": 99282
       },
       {
         "file": "/products/cinza_verso_pombo_06-640.webp",
         "width": 640,
-        "height": 631,
-        "bytes": 429616
+        "height": 630,
+        "bytes": 352798
       },
       {
         "file": "/products/cinza_verso_pombo_06-960.webp",
-        "width": 960,
-        "height": 947,
-        "bytes": 950786
+        "width": 956,
+        "height": 941,
+        "bytes": 758636
       }
     ]
   },
@@ -423,21 +423,21 @@
     "outputs": [
       {
         "file": "/products/ecobag_orelhao_01-320.webp",
-        "width": 266,
+        "width": 218,
         "height": 320,
-        "bytes": 74452
+        "bytes": 75852
       },
       {
         "file": "/products/ecobag_orelhao_01-640.webp",
-        "width": 533,
+        "width": 436,
         "height": 640,
-        "bytes": 278254
+        "bytes": 256478
       },
       {
         "file": "/products/ecobag_orelhao_01-960.webp",
-        "width": 799,
-        "height": 960,
-        "bytes": 623750
+        "width": 647,
+        "height": 950,
+        "bytes": 534370
       }
     ]
   },
@@ -457,21 +457,21 @@
     "outputs": [
       {
         "file": "/products/ecobag_lettering_laranja_02-320.webp",
-        "width": 320,
-        "height": 304,
-        "bytes": 66358
+        "width": 211,
+        "height": 320,
+        "bytes": 75500
       },
       {
         "file": "/products/ecobag_lettering_laranja_02-640.webp",
-        "width": 640,
-        "height": 607,
-        "bytes": 250728
+        "width": 422,
+        "height": 640,
+        "bytes": 260582
       },
       {
         "file": "/products/ecobag_lettering_laranja_02-960.webp",
-        "width": 960,
-        "height": 911,
-        "bytes": 566936
+        "width": 597,
+        "height": 906,
+        "bytes": 494840
       }
     ]
   },
@@ -491,21 +491,21 @@
     "outputs": [
       {
         "file": "/products/ecobag_lettering_preto_branco_03-320.webp",
-        "width": 272,
+        "width": 216,
         "height": 320,
-        "bytes": 74630
+        "bytes": 78644
       },
       {
         "file": "/products/ecobag_lettering_preto_branco_03-640.webp",
-        "width": 545,
+        "width": 433,
         "height": 640,
-        "bytes": 276704
+        "bytes": 263580
       },
       {
         "file": "/products/ecobag_lettering_preto_branco_03-960.webp",
-        "width": 817,
-        "height": 960,
-        "bytes": 623568
+        "width": 642,
+        "height": 949,
+        "bytes": 551248
       }
     ]
   },
@@ -525,21 +525,21 @@
     "outputs": [
       {
         "file": "/products/ecobag_queijo_04-320.webp",
-        "width": 302,
+        "width": 218,
         "height": 320,
-        "bytes": 78834
+        "bytes": 81104
       },
       {
         "file": "/products/ecobag_queijo_04-640.webp",
-        "width": 604,
+        "width": 436,
         "height": 640,
-        "bytes": 295356
+        "bytes": 277194
       },
       {
         "file": "/products/ecobag_queijo_04-960.webp",
-        "width": 907,
-        "height": 960,
-        "bytes": 666914
+        "width": 639,
+        "height": 939,
+        "bytes": 574998
       }
     ]
   },
@@ -559,21 +559,21 @@
     "outputs": [
       {
         "file": "/products/ecobag_pombo_05-320.webp",
-        "width": 320,
-        "height": 318,
-        "bytes": 77016
+        "width": 213,
+        "height": 320,
+        "bytes": 79490
       },
       {
         "file": "/products/ecobag_pombo_05-640.webp",
-        "width": 640,
-        "height": 635,
-        "bytes": 287160
+        "width": 427,
+        "height": 640,
+        "bytes": 267522
       },
       {
         "file": "/products/ecobag_pombo_05-960.webp",
-        "width": 960,
-        "height": 953,
-        "bytes": 635192
+        "width": 627,
+        "height": 940,
+        "bytes": 539602
       }
     ]
   },
@@ -590,21 +590,21 @@
     "outputs": [
       {
         "file": "/products/chaveiro_flor_verde_feliz-320.webp",
-        "width": 271,
+        "width": 161,
         "height": 320,
-        "bytes": 46030
+        "bytes": 45602
       },
       {
         "file": "/products/chaveiro_flor_verde_feliz-640.webp",
-        "width": 542,
+        "width": 321,
         "height": 640,
-        "bytes": 160694
+        "bytes": 154730
       },
       {
         "file": "/products/chaveiro_flor_verde_feliz-960.webp",
-        "width": 812,
-        "height": 960,
-        "bytes": 337812
+        "width": 475,
+        "height": 947,
+        "bytes": 318358
       }
     ]
   },
@@ -621,21 +621,21 @@
     "outputs": [
       {
         "file": "/products/chaveiro_flor_dourado_feliz-320.webp",
-        "width": 286,
+        "width": 167,
         "height": 320,
-        "bytes": 57594
+        "bytes": 54394
       },
       {
         "file": "/products/chaveiro_flor_dourado_feliz-640.webp",
-        "width": 572,
+        "width": 333,
         "height": 640,
-        "bytes": 191102
+        "bytes": 193742
       },
       {
         "file": "/products/chaveiro_flor_dourado_feliz-960.webp",
-        "width": 858,
-        "height": 960,
-        "bytes": 397314
+        "width": 498,
+        "height": 956,
+        "bytes": 402702
       }
     ]
   },
@@ -652,21 +652,21 @@
     "outputs": [
       {
         "file": "/products/chaveiro_console_cinza-320.webp",
-        "width": 234,
+        "width": 166,
         "height": 320,
-        "bytes": 37184
+        "bytes": 37644
       },
       {
         "file": "/products/chaveiro_console_cinza-640.webp",
-        "width": 469,
+        "width": 333,
         "height": 640,
-        "bytes": 130996
+        "bytes": 120316
       },
       {
         "file": "/products/chaveiro_console_cinza-960.webp",
-        "width": 703,
-        "height": 960,
-        "bytes": 285188
+        "width": 498,
+        "height": 958,
+        "bytes": 244656
       }
     ]
   },
@@ -683,21 +683,21 @@
     "outputs": [
       {
         "file": "/products/chaveiro_tenis_cinza-320.webp",
-        "width": 101,
+        "width": 99,
         "height": 320,
-        "bytes": 31166
+        "bytes": 28460
       },
       {
         "file": "/products/chaveiro_tenis_cinza-640.webp",
-        "width": 202,
+        "width": 199,
         "height": 640,
-        "bytes": 102378
+        "bytes": 97014
       },
       {
         "file": "/products/chaveiro_tenis_cinza-960.webp",
-        "width": 303,
-        "height": 960,
-        "bytes": 225984
+        "width": 295,
+        "height": 949,
+        "bytes": 201042
       }
     ]
   },
@@ -714,21 +714,21 @@
     "outputs": [
       {
         "file": "/products/chaveiro_menino_macaco_laranja-320.webp",
-        "width": 155,
+        "width": 124,
         "height": 320,
-        "bytes": 36564
+        "bytes": 36690
       },
       {
         "file": "/products/chaveiro_menino_macaco_laranja-640.webp",
-        "width": 309,
+        "width": 248,
         "height": 640,
-        "bytes": 123012
+        "bytes": 124584
       },
       {
         "file": "/products/chaveiro_menino_macaco_laranja-960.webp",
-        "width": 464,
-        "height": 960,
-        "bytes": 259010
+        "width": 369,
+        "height": 954,
+        "bytes": 258494
       }
     ]
   },
@@ -745,21 +745,21 @@
     "outputs": [
       {
         "file": "/products/quadro_01-320.webp",
-        "width": 231,
+        "width": 239,
         "height": 320,
-        "bytes": 104318
+        "bytes": 142056
       },
       {
         "file": "/products/quadro_01-640.webp",
-        "width": 463,
+        "width": 478,
         "height": 640,
-        "bytes": 400586
+        "bytes": 489386
       },
       {
         "file": "/products/quadro_01-960.webp",
-        "width": 694,
-        "height": 960,
-        "bytes": 891828
+        "width": 625,
+        "height": 836,
+        "bytes": 803574
       }
     ]
   },
@@ -776,21 +776,21 @@
     "outputs": [
       {
         "file": "/products/quadro_02-320.webp",
-        "width": 244,
+        "width": 242,
         "height": 320,
-        "bytes": 104442
+        "bytes": 98984
       },
       {
         "file": "/products/quadro_02-640.webp",
-        "width": 487,
+        "width": 484,
         "height": 640,
-        "bytes": 417656
+        "bytes": 310650
       },
       {
         "file": "/products/quadro_02-960.webp",
-        "width": 731,
-        "height": 960,
-        "bytes": 961950
+        "width": 721,
+        "height": 953,
+        "bytes": 628626
       }
     ]
   },
@@ -807,21 +807,21 @@
     "outputs": [
       {
         "file": "/products/quadro_03-320.webp",
-        "width": 215,
+        "width": 219,
         "height": 320,
-        "bytes": 108628
+        "bytes": 124804
       },
       {
         "file": "/products/quadro_03-640.webp",
-        "width": 430,
+        "width": 439,
         "height": 640,
-        "bytes": 418718
+        "bytes": 435142
       },
       {
         "file": "/products/quadro_03-960.webp",
-        "width": 645,
-        "height": 960,
-        "bytes": 951416
+        "width": 616,
+        "height": 899,
+        "bytes": 830098
       }
     ]
   },
@@ -840,20 +840,20 @@
       {
         "file": "/products/piteira_frente_01-320.webp",
         "width": 320,
-        "height": 305,
-        "bytes": 115868
+        "height": 214,
+        "bytes": 114008
       },
       {
         "file": "/products/piteira_frente_01-640.webp",
         "width": 640,
-        "height": 609,
-        "bytes": 427760
+        "height": 428,
+        "bytes": 366576
       },
       {
         "file": "/products/piteira_frente_01-960.webp",
-        "width": 960,
-        "height": 914,
-        "bytes": 911020
+        "width": 953,
+        "height": 638,
+        "bytes": 739170
       }
     ]
   },
@@ -871,21 +871,21 @@
     "outputs": [
       {
         "file": "/products/piteira_verso_01-320.webp",
-        "width": 243,
-        "height": 320,
-        "bytes": 67328
+        "width": 320,
+        "height": 223,
+        "bytes": 122370
       },
       {
         "file": "/products/piteira_verso_01-640.webp",
-        "width": 485,
-        "height": 640,
-        "bytes": 255224
+        "width": 640,
+        "height": 447,
+        "bytes": 414354
       },
       {
         "file": "/products/piteira_verso_01-960.webp",
-        "width": 728,
-        "height": 960,
-        "bytes": 567770
+        "width": 688,
+        "height": 480,
+        "bytes": 486086
       }
     ]
   },
@@ -903,20 +903,20 @@
       {
         "file": "/products/seda_01-320.webp",
         "width": 320,
-        "height": 222,
-        "bytes": 53236
+        "height": 82,
+        "bytes": 53446
       },
       {
         "file": "/products/seda_01-640.webp",
         "width": 640,
-        "height": 444,
-        "bytes": 196998
+        "height": 164,
+        "bytes": 177816
       },
       {
         "file": "/products/seda_01-960.webp",
-        "width": 960,
-        "height": 667,
-        "bytes": 419248
+        "width": 948,
+        "height": 243,
+        "bytes": 361442
       }
     ]
   }

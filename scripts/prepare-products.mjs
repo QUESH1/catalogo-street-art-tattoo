@@ -32,7 +32,7 @@ for (const item of mapping) {
   item.outputs = [];
   for (const size of [320, 640, 960]) {
     const dest = `${item.file}-${size}.webp`;
-    const info = await sharp(file).trim({ threshold: 0 }).resize({ width: size, height: size, fit: 'inside', withoutEnlargement: true }).webp({ lossless: true, effort: 5 }).toFile(path.join(output, dest));
+    const info = await sharp(file).trim({ threshold: 10 }).resize({ width: size, height: size, fit: 'inside', withoutEnlargement: true }).webp({ lossless: true, effort: 5 }).toFile(path.join(output, dest));
     item.outputs.push({ file: `/products/${dest}`, width: info.width, height: info.height, bytes: info.size });
   }
 }

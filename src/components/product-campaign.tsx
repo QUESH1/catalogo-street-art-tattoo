@@ -71,7 +71,7 @@ export function ProductCampaign({ kind, onOpen }: { kind: 'shirt' | 'bag'; onOpe
   const product = products.find(product => product.id === 'ecobag-pombo')!;
   return <section id="campanha-ecobags" className="product-campaign bag-campaign" aria-labelledby="bag-campaign-title">
     <Panorama progress={1}/>
-    <div className="campaign-copy"><span className="campaign-label">POMBO / ECOBAGS</span><h2 id="bag-campaign-title" className="display">SEU CORRE.<br/>SUA <span>ARTE.</span></h2><p>Da rua pra rotina.<br/>Leve seu universo com você.</p><a className="button dark" href="#ecobags">Ver ecobags<ArrowUpRight size={19}/></a></div>
+    <div className="campaign-copy"><span className="campaign-label">POMBO / ECOBAGS</span><h2 id="bag-campaign-title" className="display">SEU CORRE.{' '}<br/>SUA <span>ARTE.</span></h2><p>Da rua pra rotina.<br/>Leve seu universo com você.</p><a className="button dark" href="#ecobags">Ver ecobags<ArrowUpRight size={19}/></a></div>
     <div className="campaign-product">
       <button className="campaign-piece" onClick={() => onOpen(product, 0)} aria-label={`Ver ${product.name}`}><ProductImage className="cutout campaign-cutout" src={product.images[0]} alt={product.name} sizes={campaignSizes} loading="lazy" draggable={false}/></button>
       <div className="campaign-product-info"><div><strong>{product.name}</strong></div><button className="icon-button" onClick={() => onOpen(product)} aria-label="Detalhes da ecobag Pombo"><ArrowUpRight size={21}/></button></div>
